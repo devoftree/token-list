@@ -12,7 +12,7 @@
   ],
   "timestamp": "2021-02-20T02:00:00+00:00",
   "version": {
-    "major": 16,
+    "major": 17,
     "minor": 0,
     "patch": 0
   },
@@ -202,6 +202,33 @@
       "symbol": "YFI",
       "decimals": 18,
       "logoURI": "https://bscscan.com/token/images/yfi_32.png"
+    },
+
+
+
+    {
+      "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
+      "chainId": 97,
+      "name": "BinanceUSD",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/busd_32.png"
+    },
+    {
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "chainId": 56,
+      "name": "BinanceUSD",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/busd_32.png"
+    },
+    {
+      "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+      "chainId": 97,
+      "name": "WrappedBNB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/binance_32.png"
     }
   ]
 }
